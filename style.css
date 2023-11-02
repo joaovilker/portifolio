@@ -18,7 +18,7 @@ body{
 #container.menuopen{
     filter: blur(8px);
     transform: scale(1);
-    transition: 1s all cubic-bezier(1, 0.13, 1, 0);;
+    transition: 1s all cubic-bezier(0.32, 0.75, 0.58, 1);
 }
 
 body a{
